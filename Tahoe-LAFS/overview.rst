@@ -218,17 +218,6 @@ Tahoe-LAFS
 をバックエンドに使用した、セキュアなストレージサービス
 
 
-
-IIJ(TAMIAS project)
-===============================================================================
-http://www.iij-ii.co.jp/techweek/2011_03.html
-
-Tahoe-LAFSには、データ共有の管理機能やユーザ管理機能がない。
-セキュアストレージの基本機能はTahoe-LAFS
-
-OSSで提供。GPLv3
-
-
 資料
 *******************************************************************************
 http://www.youtube.com/watch?v=SCgl0xXFVOg
@@ -318,6 +307,9 @@ fault-tolerant storage
 暗号化には何を使っているのか
 
 spacemonkeyとの差分は。
+
+
+ACLはどこまでやっているのか、tamiasは？
 
 
 
